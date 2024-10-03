@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# 🛒Brazilian E-Commerce Public Dataset by Olist🛒
 
 ## Setup Environment - Anaconda
 ```
